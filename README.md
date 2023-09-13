@@ -20,7 +20,7 @@ It is currently not being developed because I no longer have acces to a platafor
 
 ## Agradecimentos aos meu Colegas de Grupo
 
-- David Dias Pinto
+- André de Oliveira Brandão
 - Leonardo Henrique S. de Avelar
 - Pedro Malta Boscatti
 - Samuel Marques Souza Leal
